@@ -17,14 +17,27 @@
                 "viewState": {
                   "x": 0,
                   "y": 0,
-                  "zoom": 0
+                  "zoom": 0.5
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Untitled"
             }
+          },
+          {
+            "id": "03d6461926ebeaf2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-03-22 12.40.18.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-03-22 12.40.18.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,9 +196,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e79d727e74381e2f",
+  "active": "03d6461926ebeaf2",
   "lastOpenFiles": [
     "Untitled.canvas",
+    "Excalidraw/Drawing 2025-03-22 12.40.18.excalidraw.md",
+    "Excalidraw",
     "Welcome.md"
   ]
 }
